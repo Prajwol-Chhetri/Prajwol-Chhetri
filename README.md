@@ -7,7 +7,7 @@ I'm an undergraduate student at Islington College. Currently Working as a Python
 
 [View Resume](https://prajwol-chhetri.github.io/minimal-mistakes/assets/docs/resume.pdf)
 
-![Prajwol's github stats](https://github-readme-stats.vercel.app/api?username=prajwol-chhetri&count_private=true&show_icons=true&theme=dark)<a href="https://github.com/prajwol-chhetri">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwol-chhetri&layout=compact&theme=dark)](https://github.com/prajwol-chhetri)</a>
+![Prajwol's github stats](https://github-readme-stats.vercel.app/api?username=prajwol-chhetri&count_private=true&show_icons=true&theme=light)<a href="https://github.com/prajwol-chhetri">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwol-chhetri&layout=compact&theme=light)](https://github.com/prajwol-chhetri)</a>
 
 ## Languages and Tools:
 
