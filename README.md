@@ -5,9 +5,18 @@ I'm an undergraduate student at Islington College. Currently Working as a Python
 ### Skills:
 - :pencil2: Python-Programming, MySQL, Bash Scripting, XML, CSS 
 
+[View Resume](https://prajwol-chhetri.github.io/minimal-mistakes/assets/docs/resume.pdf)
+
 ![Prajwol's github stats](https://github-readme-stats.vercel.app/api?username=prajwol-chhetri&count_private=true&show_icons=true&theme=dark)<a href="https://github.com/prajwol-chhetri">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwol-chhetri&layout=compact&theme=dark)](https://github.com/prajwol-chhetri)</a>
 
-<!---
-Prajwol-Chhetri/Prajwol-Chhetri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Languages and Tools:
+
+
+👨 **Profile Stat**
+    
+<img src="https://visitor-badge.glitch.me/badge?page_id=prajwol-chhetri.prajwol-chhetri" alt="Visitors Counter">
+
+🐍 **Snake eating my contribution graph**
+<p align="center">
+  <img src="https://github.com/prajwol-chhetri/prajwol-chhetri/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
