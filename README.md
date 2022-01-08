@@ -19,5 +19,5 @@ I'm an undergraduate student at Islington College. Currently Working as a Python
 
 🐍 **Snake eating my contribution graph**
 <p align="center">
-  <img src="https://github.com/prajwol-chhetri/prajwol-chhetri/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/Prajwol-Chhetri/Prajwol-Chhetri/blob/output/github-contribution-grid-snake.gif" alt="snake"></center>
 </p>
