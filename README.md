@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Prajwol Chhetri
 
-I'm an undergraduate student at Islington College. Currently Working as a Python Developer 👨‍💻 [@Eat Ziffy](https://www.eatziffy.com/). I have always loved programminng as it allows me to express my ideas and understand the bigger picture. Beside's that I am alos interested in history and sports.
+I'm an undergraduate student at Islington College. Currently Working as a Python Developer 👨‍💻 [@Eat Ziffy](https://www.eatziffy.com/). I have always loved programminng as it allows me to express my ideas and understand the bigger picture. Besides that I am also interested in history and sports.
 
 [View Resume](https://prajwol-chhetri.github.io/minimal-mistakes/assets/docs/resume.pdf)
 
