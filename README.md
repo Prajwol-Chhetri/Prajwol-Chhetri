@@ -34,7 +34,7 @@ I'm an undergraduate student at Islington College. Currently Working as a Python
 
 <td align="center" width="25%">
 <span><b><center>Docker</center></b></span><br/>  
-<img height=75px src="https://icons8.com/icon/22813/docker"> 
+<img height=75px src="https://img.icons8.com/color/48/000000/docker.png"> 
 </td>
 </tr>
 
@@ -46,7 +46,7 @@ I'm an undergraduate student at Islington College. Currently Working as a Python
 
 <td align="center" width="25%">
 <span><b><center>PostgreSQL</center></b></span> <br/>
-<img height=75px src="https://icons8.com/icon/38561/postgresql"> 
+<img height=75px src="https://img.icons8.com/color/48/000000/postgreesql.png"> 
 </td>
 
 <td align="center" width="25%">
