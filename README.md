@@ -24,7 +24,7 @@ I'm an undergraduate student at Islington College. Currently Working as a Python
    
 <td align="center" width="30%">
 <span><b><center>C#</center></b></span><br/>  
-<img height=75px src="https://icons8.com/icon/55205/c-sharp-logo"> 
+<img height=75px src="https://icons8.com/icon/55205/c-sharp-logo.png"> 
 </td>
 
 <td align="center" width="25%">
