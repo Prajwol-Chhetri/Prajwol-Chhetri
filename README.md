@@ -15,6 +15,7 @@ I'm an undergraduate student at Islington College. Currently Working as a Python
 👨 **Profile Stat**
     
 <img src="https://visitor-badge.glitch.me/badge?page_id=prajwol-chhetri.prajwol-chhetri" alt="Visitors Counter">
+![Profile View Counter](https://komarev.com/ghpvc/?username=Prajwol-Chhetri)
 
 🐍 **Snake eating my contribution graph**
 <p align="center">
