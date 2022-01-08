@@ -41,7 +41,7 @@ I'm an undergraduate student at Islington College. Currently Working as a Python
 <tr> 
 <td align="center" width="25%">
 <span><b><center>Oracle</center></b></span><br/> 
-<img height=75px src="https://icons8.com/icon/39913/oracle-logo"> 
+<img height=75px src="https://img.icons8.com/color/48/000000/oracle-logo.png">
 </td>
 
 <td align="center" width="25%">
