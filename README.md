@@ -14,10 +14,12 @@ I'm also an applied ML researcher — my work on facial-recognition distance met
 - **Data:** PostgreSQL, DynamoDB, MySQL, Redis
 - **Cloud & DevOps:** AWS (Lambda, Step Functions, EKS, SageMaker), Docker, Kubernetes, GitHub Actions
 
+## 🚀 Featured Work
+
+- **[EOERS](https://prajwolchhetri.com.np/projects/eoers/)** — government-backed employment system for Nepal's Department of Foreign Employment: 250K+ users, 15K+ concurrent requests
+- **[Gadak](https://prajwolchhetri.com.np/projects/gadak/)** — facial-attendance system whose model evaluation led to a peer-reviewed publication
+- **[Publication](https://doi.org/10.3126/jost.v4i2.78952)** — *Decoding Facial Recognition: Analyzing Standalone Euclidean and KNN Distance Metrics*, Journal of Science and Technology (2024)
+
 ## 📊 Stats
 
-![Prajwol's github stats](https://github-readme-stats.vercel.app/api?username=prajwol-chhetri&count_private=true&show_icons=true&theme=dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwol-chhetri&layout=compact&theme=dark)](https://github.com/prajwol-chhetri)
-
-**🐍 Watch a snake eating my contribution graph**
-
-![graph](https://github.com/Prajwol-Chhetri/Prajwol-Chhetri/blob/output/github-contribution-grid-snake.gif)
+![Prajwol's github stats](https://github-readme-stats.vercel.app/api?username=prajwol-chhetri&count_private=true&include_all_commits=true&show_icons=true&rank_icon=github&theme=dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwol-chhetri&layout=compact&hide_progress=false&size_weight=0.5&count_weight=0.5&theme=dark)](https://github.com/prajwol-chhetri)
