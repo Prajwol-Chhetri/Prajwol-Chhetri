@@ -16,7 +16,7 @@ I'm also an applied ML researcher — my work on facial-recognition distance met
 
 ## 🚀 Featured Work
 
-- **[EOERS](https://prajwolchhetri.com.np/projects/eoers/)** — government-backed employment system for Nepal's Department of Foreign Employment: 250K+ users, 15K+ concurrent requests
+- **[EOERS](https://prajwolchhetri.com.np/projects/eoers/)** ([live](https://eoers.epsnepal.gov.np/)) — government-backed employment system for Nepal's Department of Foreign Employment: 250K+ users, 15K+ concurrent requests
 - **[Gadak](https://prajwolchhetri.com.np/projects/gadak/)** — facial-attendance system whose model evaluation led to a peer-reviewed publication
 - **[Publication](https://doi.org/10.3126/jost.v4i2.78952)** — *Decoding Facial Recognition: Analyzing Standalone Euclidean and KNN Distance Metrics*, Journal of Science and Technology (2024)
 
