@@ -1,74 +1,23 @@
-### 👋 Hi, I’m Prajwol Chhetri
+### 👋 Hi, I'm Prajwol Chhetri
 
-I'm a computer science graduate from [LMU](https://www.londonmet.ac.uk/). Currently Working as a Software Engineer 👨‍💻 [@Niural-AI](https://www.niural.com/). I've always loved programming as it allows me to express my ideas and understand the bigger picture. Besides that I am also interested in history and sports.
+Software Engineer 👨‍💻 at [Niural AI](https://www.niural.com/), where I architect globally scalable backend systems — serverless and relational, event-driven and multi-region — and build AI-augmented services, including LLM-driven automation. Previously led a backend team at [Khalti](https://khalti.com/), one of Nepal's largest payment platforms.
 
+I'm also an applied ML researcher — my work on facial-recognition distance metrics is published in the *Journal of Science and Technology* ([doi:10.3126/jost.v4i2.78952](https://doi.org/10.3126/jost.v4i2.78952)) — and I supervise final-year AI/ML capstone projects at Herald College Kathmandu. Besides that I am interested in history and sports.
 
-![Prajwol's github stats](https://github-readme-stats.vercel.app/api?username=prajwol-chhetri&count_private=true&show_icons=true&theme=dark)<a href="https://github.com/prajwol-chhetri">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwol-chhetri&layout=compact&theme=dark)](https://github.com/prajwol-chhetri)</a>
+🌐 **Portfolio:** [prajwolchhetri.com.np](https://prajwolchhetri.com.np) · 💼 [LinkedIn](https://www.linkedin.com/in/prajwol-chhetri/)
 
-## Languages and Tools:
-<br/>
-<center>
-<table>
-<tbody align="center">
- <tr>
-   
-<td align="center" width="25%">
-<span><b><center>Python</center></b></span><br/> 
-<img height=75px src="https://img.icons8.com/color/2x/python.png"> 
-</td>
+## 🛠 Languages and Tools
 
-   
-<td align="center" width="30%">
-<span><b><center>C#</center></b></span><br/>  
-<img height=75px src="https://img.icons8.com/ios-filled/50/000000/c-sharp-logo.png">
-</td>
+- **Languages:** Python, SQL, Bash, JavaScript, C#
+- **Backend:** FastAPI, Django, Flask, event-driven & serverless architectures
+- **AI/ML:** PyTorch, Scikit-learn, HuggingFace Transformers, LangChain, RAG, OCR, computer vision
+- **Data:** PostgreSQL, DynamoDB, MySQL, Redis
+- **Cloud & DevOps:** AWS (Lambda, Step Functions, EKS, SageMaker), Docker, Kubernetes, GitHub Actions
 
-<td align="center" width="25%">
-<span><b><center>Bash Scripting</center></b></span><br/> 
-<img height=75px src="https://img.icons8.com/plasticine/100/000000/bash.png"> 
-</td>
+## 📊 Stats
 
-<td align="center" width="25%">
-<span><b><center>Docker</center></b></span><br/>  
-<img height=75px src="https://img.icons8.com/color/48/000000/docker.png"> 
-</td>
-</tr>
+![Prajwol's github stats](https://github-readme-stats.vercel.app/api?username=prajwol-chhetri&count_private=true&show_icons=true&theme=dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwol-chhetri&layout=compact&theme=dark)](https://github.com/prajwol-chhetri)
 
-<tr> 
-<td align="center" width="25%">
-<span><b><center>Oracle</center></b></span><br/> 
-<img height=75px src="https://img.icons8.com/color/48/000000/oracle-logo.png">
-</td>
-
-<td align="center" width="25%">
-<span><b><center>PostgreSQL</center></b></span> <br/>
-<img height=75px src="https://img.icons8.com/color/48/000000/postgreesql.png"> 
-</td>
-
-<td align="center" width="25%">
-<span><b><center>Git</center></b></span> <br/>
-<img height=75px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
-</td>
-
-<td align="center" width="25%">
-<span><b><center>MySQL</center></b></span> <br/>
-<img height=75px src="https://img.icons8.com/color/48/000000/mysql.png"/>
-</td>
-
-</tr>
-
-<tr>
-<td align="center" width="25%">
-<span><b><center>Linux</center></b></span> <br/>
-<img height=75px src="https://img.icons8.com/color/48/000000/linux.png"/>
-</td>
-</tr>
-</tbody>
-</table>
-
-👨 **Profile Stat**
-
-<img src="https://visitor-badge.glitch.me/badge?page_id=prajwol-chhetri.prajwol-chhetri" alt="Visitors Counter">
- 
 **🐍 Watch a snake eating my contribution graph**
+
 ![graph](https://github.com/Prajwol-Chhetri/Prajwol-Chhetri/blob/output/github-contribution-grid-snake.gif)
